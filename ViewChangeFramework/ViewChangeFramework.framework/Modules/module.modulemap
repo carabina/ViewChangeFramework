@@ -1,0 +1,6 @@
+framework module ViewChangeFramework {
+  umbrella header "ViewChangeFramework.h"
+
+  export *
+  module * { export * }
+}
